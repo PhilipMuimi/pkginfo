@@ -1,0 +1,9 @@
+system,SUNWdoc,Documentation Tools,1251
+application,SPROcpl,C++ Compiler,25477
+system,BRCMbnxe,Broadcom NIC Driver,5423
+newcat,madeup,A made-up line,100000
+application,ecj,Eclipse JDT,75443
+utility,git,Version Control System,8455
+library,numpy,Python Library for Numerical Computations,32000
+system,openssl,Secure Sockets Layer Toolkit,5120
+development,python,Python Programming Language,24350
